@@ -1,0 +1,13 @@
+/home/brian/Documents/DesignCrowdTechTest/Test/bin/Debug/netcoreapp3.1/Test
+/home/brian/Documents/DesignCrowdTechTest/Test/bin/Debug/netcoreapp3.1/Test.deps.json
+/home/brian/Documents/DesignCrowdTechTest/Test/bin/Debug/netcoreapp3.1/Test.runtimeconfig.json
+/home/brian/Documents/DesignCrowdTechTest/Test/bin/Debug/netcoreapp3.1/Test.runtimeconfig.dev.json
+/home/brian/Documents/DesignCrowdTechTest/Test/bin/Debug/netcoreapp3.1/Test.dll
+/home/brian/Documents/DesignCrowdTechTest/Test/bin/Debug/netcoreapp3.1/Test.pdb
+/home/brian/Documents/DesignCrowdTechTest/Test/obj/Debug/netcoreapp3.1/Test.csprojAssemblyReference.cache
+/home/brian/Documents/DesignCrowdTechTest/Test/obj/Debug/netcoreapp3.1/Test.AssemblyInfoInputs.cache
+/home/brian/Documents/DesignCrowdTechTest/Test/obj/Debug/netcoreapp3.1/Test.AssemblyInfo.cs
+/home/brian/Documents/DesignCrowdTechTest/Test/obj/Debug/netcoreapp3.1/Test.csproj.CoreCompileInputs.cache
+/home/brian/Documents/DesignCrowdTechTest/Test/obj/Debug/netcoreapp3.1/Test.dll
+/home/brian/Documents/DesignCrowdTechTest/Test/obj/Debug/netcoreapp3.1/Test.pdb
+/home/brian/Documents/DesignCrowdTechTest/Test/obj/Debug/netcoreapp3.1/Test.genruntimeconfig.cache
